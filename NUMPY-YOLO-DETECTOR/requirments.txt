@@ -1,0 +1,4 @@
+pathlib
+numpy==1.22.3
+tensorflow==2.8.0
+Pillow>=7.1.2
